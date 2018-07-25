@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NYC HALO Application Automation Test Suite" duration-ms="136663" started-at="2018-07-25T11:37:25Z" finished-at="2018-07-25T11:39:42Z">
+    <groups>
+    </groups>
+    <test name="NYC HALO App Test Case 1" duration-ms="32450" started-at="2018-07-25T11:37:25Z" finished-at="2018-07-25T11:37:58Z">
+      <class name="com.nyc.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="setup" is-config="true" duration-ms="4584" started-at="2018-07-25T11:37:25Z" finished-at="2018-07-25T11:37:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="loginPageTitleTest" duration-ms="20" started-at="2018-07-25T11:37:30Z" description="This TC will verify Login page title" finished-at="2018-07-25T11:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="tearDown" is-config="true" duration-ms="641" started-at="2018-07-25T11:37:30Z" finished-at="2018-07-25T11:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="setup" is-config="true" duration-ms="3867" started-at="2018-07-25T11:37:30Z" finished-at="2018-07-25T11:37:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="nycLogoImageTest()[pri:2, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="nycLogoImageTest" duration-ms="44" started-at="2018-07-25T11:37:34Z" description="This TC will verify NYC logo on login page" finished-at="2018-07-25T11:37:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nycLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="tearDown" is-config="true" duration-ms="618" started-at="2018-07-25T11:37:34Z" finished-at="2018-07-25T11:37:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="setup" is-config="true" duration-ms="3891" started-at="2018-07-25T11:37:35Z" finished-at="2018-07-25T11:37:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="loginTest" duration-ms="2647" started-at="2018-07-25T11:37:39Z" description="This TC will verify login functionality for HALO app" finished-at="2018-07-25T11:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="tearDown" is-config="true" duration-ms="660" started-at="2018-07-25T11:37:41Z" finished-at="2018-07-25T11:37:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="setup" is-config="true" duration-ms="4004" started-at="2018-07-25T11:37:43Z" finished-at="2018-07-25T11:37:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginWithUsersFromTestDataSheetTest(java.lang.String, java.lang.String)[pri:4, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="loginWithUsersFromTestDataSheetTest" duration-ms="2745" started-at="2018-07-25T11:37:47Z" description="This TC will verify login functionality multiple users from Test Data sheet" data-provider="getNYCTestData" finished-at="2018-07-25T11:37:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Super Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithUsersFromTestDataSheetTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="tearDown" is-config="true" duration-ms="766" started-at="2018-07-25T11:37:49Z" finished-at="2018-07-25T11:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="setup" is-config="true" duration-ms="4219" started-at="2018-07-25T11:37:50Z" finished-at="2018-07-25T11:37:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginWithUsersFromTestDataSheetTest(java.lang.String, java.lang.String)[pri:4, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="loginWithUsersFromTestDataSheetTest" duration-ms="2620" started-at="2018-07-25T11:37:54Z" description="This TC will verify login functionality multiple users from Test Data sheet" data-provider="getNYCTestData" finished-at="2018-07-25T11:37:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Super Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[def]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithUsersFromTestDataSheetTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.LoginPageTest@42e26948]" name="tearDown" is-config="true" duration-ms="649" started-at="2018-07-25T11:37:57Z" finished-at="2018-07-25T11:37:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nyc.qa.testcases.LoginPageTest -->
+    </test> <!-- NYC HALO App Test Case 1 -->
+    <test name="NYC HALO App Test Case 2" duration-ms="41012" started-at="2018-07-25T11:37:58Z" finished-at="2018-07-25T11:38:39Z">
+      <class name="com.nyc.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="setup" is-config="true" duration-ms="6487" started-at="2018-07-25T11:37:58Z" finished-at="2018-07-25T11:38:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="verifyHomePageTitleTest" duration-ms="6" started-at="2018-07-25T11:38:04Z" description="This TC will verify Home page title" finished-at="2018-07-25T11:38:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="tearDown" is-config="true" duration-ms="638" started-at="2018-07-25T11:38:04Z" finished-at="2018-07-25T11:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="setup" is-config="true" duration-ms="6655" started-at="2018-07-25T11:38:05Z" finished-at="2018-07-25T11:38:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyUserNameTest()[pri:2, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="verifyUserNameTest" duration-ms="47" started-at="2018-07-25T11:38:11Z" description="This TC will verify logged in user on Home page" finished-at="2018-07-25T11:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="tearDown" is-config="true" duration-ms="650" started-at="2018-07-25T11:38:11Z" finished-at="2018-07-25T11:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="setup" is-config="true" duration-ms="6407" started-at="2018-07-25T11:38:12Z" finished-at="2018-07-25T11:38:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyDashboardLinkTest()[pri:3, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="verifyDashboardLinkTest" duration-ms="5989" started-at="2018-07-25T11:38:18Z" description="This TC will verify click on Dashboard link" finished-at="2018-07-25T11:38:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashboardLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="tearDown" is-config="true" duration-ms="665" started-at="2018-07-25T11:38:24Z" finished-at="2018-07-25T11:38:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="setup" is-config="true" duration-ms="6606" started-at="2018-07-25T11:38:25Z" finished-at="2018-07-25T11:38:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyClientsLinkTest()[pri:4, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="verifyClientsLinkTest" duration-ms="6152" started-at="2018-07-25T11:38:32Z" description="This TC will verify click on Clients link" finished-at="2018-07-25T11:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClientsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.HomePageTest@5700d6b1]" name="tearDown" is-config="true" duration-ms="707" started-at="2018-07-25T11:38:38Z" finished-at="2018-07-25T11:38:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nyc.qa.testcases.HomePageTest -->
+    </test> <!-- NYC HALO App Test Case 2 -->
+    <test name="NYC HALO App Test Case 3" duration-ms="63184" started-at="2018-07-25T11:38:39Z" finished-at="2018-07-25T11:39:42Z">
+      <class name="com.nyc.qa.testcases.DashboardPageTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="setup" is-config="true" duration-ms="12659" started-at="2018-07-25T11:38:39Z" finished-at="2018-07-25T11:38:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyShelterEntrantsCount()[pri:1, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="verifyShelterEntrantsCount" duration-ms="47" started-at="2018-07-25T11:38:51Z" description="This TC will verify Shelter Entrants count on Dashboard page" finished-at="2018-07-25T11:38:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShelterEntrantsCount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="tearDown" is-config="true" duration-ms="230" started-at="2018-07-25T11:38:51Z" finished-at="2018-07-25T11:38:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="setup" is-config="true" duration-ms="12245" started-at="2018-07-25T11:38:52Z" finished-at="2018-07-25T11:39:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyShelterExitsCountTest()[pri:2, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="verifyShelterExitsCountTest" duration-ms="190" started-at="2018-07-25T11:39:04Z" description="This TC will verify Shelter Exits count on Dashboard page" finished-at="2018-07-25T11:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShelterExitsCountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="tearDown" is-config="true" duration-ms="250" started-at="2018-07-25T11:39:04Z" finished-at="2018-07-25T11:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="setup" is-config="true" duration-ms="11896" started-at="2018-07-25T11:39:04Z" finished-at="2018-07-25T11:39:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyclickOnDetailsEntrantButtonTest()[pri:3, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="verifyclickOnDetailsEntrantButtonTest" duration-ms="6272" started-at="2018-07-25T11:39:16Z" description="This TC will verify click on Details Entrant button" finished-at="2018-07-25T11:39:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyclickOnDetailsEntrantButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="tearDown" is-config="true" duration-ms="261" started-at="2018-07-25T11:39:22Z" finished-at="2018-07-25T11:39:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="setup" is-config="true" duration-ms="12667" started-at="2018-07-25T11:39:23Z" finished-at="2018-07-25T11:39:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyclickOnDetailsExitsButtonTest()[pri:4, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="verifyclickOnDetailsExitsButtonTest" duration-ms="6080" started-at="2018-07-25T11:39:35Z" description="This TC will verify click on Details Exits button" finished-at="2018-07-25T11:39:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyclickOnDetailsExitsButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nyc.qa.testcases.DashboardPageTest@1e397ed7]" name="tearDown" is-config="true" duration-ms="387" started-at="2018-07-25T11:39:41Z" finished-at="2018-07-25T11:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nyc.qa.testcases.DashboardPageTest -->
+    </test> <!-- NYC HALO App Test Case 3 -->
+  </suite> <!-- NYC HALO Application Automation Test Suite -->
+</testng-results>

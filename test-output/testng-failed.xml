@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [NYC HALO Application Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.nyc.qa.ExtentReportListener.ExtentReporterNG"/>
+    <listener class-name="com.nyc.qa.util.MyTransformer"/>
+  </listeners>
+  <test thread-count="5" name="NYC HALO App Test Case 1(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.nyc.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="loginPageTitleTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.nyc.qa.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- NYC HALO App Test Case 1(failed) -->
+</suite> <!-- Failed suite [NYC HALO Application Automation Test Suite] -->

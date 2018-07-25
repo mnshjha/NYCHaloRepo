@@ -1,0 +1,1334 @@
+2018-07-23 16:19:28,193  INFO [main] LoginPageTest:37 - ************************  loginPageTitleTest **************************
+2018-07-23 16:22:10,301  INFO [main] LoginPageTest:37 - ************************  loginPageTitleTest **************************
+2018-07-23 16:23:54,209  INFO [main] LoginPageTest:37 - ************************  loginPageTitleTest **************************
+2018-07-23 17:43:46,787  INFO [main] LoginPageTest:37 - ************************  loginPageTitleTest **************************
+2018-07-23 17:47:41,382  INFO [main] LoginPageTest:37 - ************************  loginPageTitleTest **************************
+2018-07-23 17:59:30,950 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-23 17:59:30,952 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-23 17:59:30,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-23 17:59:30,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-23 17:59:30,956 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-23 17:59:31,163 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-23 17:59:31,163 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-23 17:59:31,163 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-23 17:59:31,164 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-23 17:59:31,164 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 12:55:27,211  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 12:55:27,240  INFO [main] LoginPageTest:37 - ************************  loginPageTitleTest **************************
+2018-07-24 12:55:31,794  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 12:55:36,198  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 12:55:49,864  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 12:55:56,755  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 12:57:03,878  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 12:57:10,716  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 12:57:17,569  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 12:57:24,378  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 12:57:31,325  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 12:57:43,458  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 12:57:51,989 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 12:57:51,990 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 12:57:51,991 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 12:57:51,992 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 12:57:51,992 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 12:57:52,244 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 12:57:52,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 12:57:52,245 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 12:57:52,245 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 12:57:52,245 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 13:00:08,337  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:00:15,358  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:00:22,566  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:00:29,475  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:00:36,543  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:00:49,416  INFO [main] TestBase:70 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:00:58,627 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 13:00:58,628 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 13:00:58,630 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 13:00:58,630 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 13:00:58,631 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 13:00:58,852 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 13:00:58,853 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 13:00:58,853 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 13:00:58,853 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 13:00:58,854 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 13:04:21,851  INFO [main] TestBase:76 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:04:28,983  INFO [main] TestBase:76 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:04:36,106  INFO [main] TestBase:76 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:04:43,197  INFO [main] TestBase:76 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:04:50,139  INFO [main] TestBase:76 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:05:02,581  INFO [main] TestBase:76 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:05:11,782 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 13:05:11,784 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 13:05:11,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 13:05:11,786 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 13:05:11,786 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 13:05:12,015 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 13:05:12,015 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 13:05:12,016 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 13:05:12,016 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 13:05:12,016 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 13:17:57,081 ERROR [main] TestBase:40 - Error while loading properties file: D:\ManishJavaWorkspace\NYCDHSHaloTest\src\main\java\com\nyc\qa\config1\config.properties (The system cannot find the path specified)
+2018-07-24 13:26:04,874  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:26:04,893  INFO [main] LoginPageTest:37 - ************************  loginPageTitleTest **************************
+2018-07-24 13:26:09,560  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:26:14,140  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:26:25,412  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:26:32,385  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:38:03,706  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:38:03,726  INFO [main] LoginPageTest:37 - ************************  loginPageTitleTest **************************
+2018-07-24 13:38:08,221  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:38:08,223  INFO [main] LoginPageTest:37 - ************************  loginPageTitleTest **************************
+2018-07-24 13:38:12,656  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:38:12,658  INFO [main] LoginPageTest:37 - ************************  loginPageTitleTest **************************
+2018-07-24 13:38:17,127  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:38:21,658  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:38:29,122  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:38:35,900  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:38:42,637  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:38:49,366  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:38:56,051  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:39:02,911  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:39:09,770  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:39:21,951  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:39:34,315  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:39:42,211  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:39:50,136  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:40:03,930  INFO [main] TestBase:72 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 13:40:13,561 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 13:40:13,562 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 13:40:13,564 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 13:40:13,565 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 13:40:13,565 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 13:40:13,768 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 13:40:13,768 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 13:40:13,769 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 13:40:13,769 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 13:40:13,769 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 14:57:12,082  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 14:57:12,103  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 14:57:16,525  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 14:57:16,527  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 14:57:20,987  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 14:57:20,988  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 14:57:25,418  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 14:57:29,880  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 14:57:41,529  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 14:57:48,443  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 14:58:09,365 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 14:58:09,368 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 14:58:09,369 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 14:58:09,370 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 14:58:09,370 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 14:58:09,552 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 14:58:09,553 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 14:58:09,553 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 14:58:09,553 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 14:58:09,553 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:01:09,700  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:01:09,721  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:01:14,168  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:01:14,170  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:01:18,660  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:01:18,662  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:01:23,064  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:01:27,537  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:01:34,843  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:01:41,608  INFO [TestNG-tests-1] TestBase:77 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:02:19,743 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:02:19,745 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:02:19,747 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:02:19,747 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:02:19,749 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:02:19,991 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:02:19,992 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:02:19,992 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:02:19,993 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:02:19,993 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:03:38,560  INFO [TestNG-tests-1] TestBase:78 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:03:38,576  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:03:43,456  INFO [TestNG-tests-1] TestBase:78 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:03:43,457  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:03:47,970  INFO [TestNG-tests-1] TestBase:78 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:03:47,971  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:03:52,629  INFO [TestNG-tests-1] TestBase:78 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:03:57,293  INFO [TestNG-tests-1] TestBase:78 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:04:04,708  INFO [TestNG-tests-1] TestBase:78 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:04:11,618  INFO [TestNG-tests-1] TestBase:78 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:04:48,180 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:04:48,181 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:04:48,182 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:04:48,183 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:04:48,185 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:04:48,423 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:04:48,424 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:04:48,424 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:04:48,424 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:04:48,424 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:12:09,131  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:12:09,148  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:12:13,802  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:12:13,803  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:12:18,429  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:12:18,430  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:12:22,846  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:12:27,360  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:12:34,757  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:12:41,530  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:13:18,361 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:13:18,362 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:13:18,363 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:13:18,364 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:13:18,365 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:13:18,535 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:13:18,536 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:13:18,536 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:13:18,537 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:13:18,537 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:15:55,306  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:15:55,320  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:15:59,798  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:15:59,799  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:16:04,224  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:16:04,225  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:16:08,702  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:16:13,191  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:16:20,497  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:16:27,288  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:17:05,024 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:17:05,030 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:17:05,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:17:05,032 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:17:05,032 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:17:05,208 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:17:05,209 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:17:05,209 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:17:05,210 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:17:05,210 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:19:32,303  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:19:32,320  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:19:36,814  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:19:36,815  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:19:41,506  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:19:41,507  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:19:46,050  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:19:50,462  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:19:57,679  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:20:04,512  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:20:42,067 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:20:42,068 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:20:42,069 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:20:42,070 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:20:42,070 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:20:42,288 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:20:42,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:20:42,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:20:42,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:20:42,289 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:28:24,391  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:28:24,408  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:28:28,945  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:28:28,946  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:28:33,511  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:28:33,513  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:28:37,989  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:28:42,561  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:28:50,162  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:28:57,134  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:29:34,118 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:29:34,119 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:29:34,120 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:29:34,121 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:29:34,121 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:29:34,296 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:29:34,297 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:29:34,297 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:29:34,298 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:29:34,298 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:37:18,967  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:37:18,983  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:37:23,530  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:37:23,531  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:37:28,008  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:37:28,009  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 15:37:32,465  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:37:36,981  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:37:44,124  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:37:50,979  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 15:38:28,590 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:38:28,591 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:38:28,592 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:38:28,593 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:38:28,593 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 15:38:28,764 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 15:38:28,765 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 15:38:28,765 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 15:38:28,765 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 15:38:28,766 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 16:06:09,402  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:06:09,416  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:06:13,843  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:06:13,845  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:06:18,361  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:06:18,362  INFO [TestNG-tests-1] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:06:22,758  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:06:27,160  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:06:39,037  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:06:46,180  INFO [TestNG-tests-1] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:07:08,211 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 16:07:08,212 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 16:07:08,214 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 16:07:08,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 16:07:08,215 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 16:07:08,403 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 16:07:08,404 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 16:07:08,404 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 16:07:08,404 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 16:07:08,404 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 16:19:19,404  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:19:19,424  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:19:23,853  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:19:23,855  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:19:28,568  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:19:28,570  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:19:33,022  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:19:37,526  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:19:44,963  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:19:52,553  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:21:10,178 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 16:21:10,178 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 16:21:10,179 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 16:21:10,180 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 16:21:10,180 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 16:21:10,344 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 16:21:10,345 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 16:21:10,345 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 16:21:10,346 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 16:21:10,346 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 16:28:06,219  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:28:06,240  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:28:10,673  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:28:10,675  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:28:15,070  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:28:15,072  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:28:19,535  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:28:23,979  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:28:31,227  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:28:38,114  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:28:44,098  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:28:45,990 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 16:28:45,991 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 16:28:45,992 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 16:28:45,993 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 16:28:45,993 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 16:28:46,184 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 16:28:46,185 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 16:28:46,185 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 16:28:46,185 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 16:28:46,185 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 16:32:00,885  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:32:00,906  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:32:05,285  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:32:05,286  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:32:09,758  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:32:09,759  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 16:32:14,171  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:32:18,670  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:32:27,213  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:32:35,126  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:32:41,289  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 16:32:43,134 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 16:32:43,135 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 16:32:43,137 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 16:32:43,138 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 16:32:43,138 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 16:32:43,320 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 16:32:43,320 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 16:32:43,320 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 16:32:43,321 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 16:32:43,321 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 17:34:06,273  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:34:06,293  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 17:34:12,888  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:34:12,890  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 17:34:18,133  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:34:18,135  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-24 17:34:23,085  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:34:38,935  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:34:54,756  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:35:10,651  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:35:19,172  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:35:25,615  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:35:32,759  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:35:41,896  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:37:18,895  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 17:37:19,161 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 17:37:19,162 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 17:37:19,164 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 17:37:19,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 17:37:19,165 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 17:37:19,382 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 17:37:19,382 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 17:37:19,382 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 17:37:19,383 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 17:37:19,383 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 17:38:12,545  INFO [main] TestBase:79 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 18:37:58,197  INFO [main] TestBase:86 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 18:37:58,594 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:37:58,596 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:37:58,597 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:37:58,599 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:37:58,601 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:37:58,814 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:37:58,814 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:37:58,814 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:37:58,814 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:37:58,815 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:40:11,732  INFO [main] TestBase:86 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 18:40:12,099 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:40:12,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:40:12,103 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:40:12,105 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:40:12,106 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:40:12,322 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:40:12,322 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:40:12,322 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:40:12,323 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:40:12,323 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:41:22,648  INFO [main] TestBase:87 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 18:41:23,033 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:41:23,034 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:41:23,035 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:41:23,036 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:41:23,036 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:41:23,236 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:41:23,237 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:41:23,237 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:41:23,239 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:41:23,239 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:43:23,518  INFO [main] TestBase:87 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 18:43:23,937 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:43:23,939 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:43:23,940 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:43:23,941 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:43:23,941 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:43:24,148 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:43:24,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:43:24,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:43:24,150 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:43:24,150 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:44:29,982  INFO [main] TestBase:87 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 18:44:30,375 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:44:30,376 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:44:30,377 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:44:30,378 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:44:30,378 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:44:30,578 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:44:30,578 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:44:30,578 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:44:30,578 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:44:30,579 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:48:44,241  INFO [main] TestBase:87 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 18:48:44,636 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:48:44,637 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:48:44,639 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:48:44,640 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:48:44,641 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:48:44,851 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:48:44,852 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:48:44,852 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:48:44,853 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:48:44,853 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:51:47,414  INFO [main] TestBase:87 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 18:51:47,830 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:51:47,832 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:51:47,833 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:51:47,835 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:51:47,836 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:51:48,031 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:51:48,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:51:48,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:51:48,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:51:48,032 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:54:01,401  INFO [main] TestBase:91 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 18:54:01,813 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:54:01,815 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:54:01,816 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:54:01,818 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:54:01,819 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:54:02,028 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:54:02,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:54:02,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:54:02,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:54:02,029 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:55:11,339  INFO [main] TestBase:92 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 18:55:11,758 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:55:11,759 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:55:11,761 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:55:11,763 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:55:11,764 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:55:12,016 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:55:12,016 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:55:12,017 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:55:12,017 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:55:12,017 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:59:19,850  INFO [main] TestBase:92 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 18:59:20,303 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:59:20,304 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:59:20,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:59:20,306 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:59:20,306 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 18:59:20,560 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 18:59:20,561 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 18:59:20,562 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 18:59:20,563 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 18:59:20,564 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:01:06,383  INFO [main] TestBase:92 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:01:06,749 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:01:06,750 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:01:06,751 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:01:06,751 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:01:06,752 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:01:06,954 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:01:06,954 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:01:06,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:01:06,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:01:06,955 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:03:03,830  INFO [main] TestBase:94 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:03:04,248 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:03:04,249 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:03:04,251 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:03:04,254 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:03:04,255 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:03:04,452 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:03:04,452 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:03:04,453 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:03:04,453 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:03:04,453 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:05:33,873  INFO [main] TestBase:94 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:05:34,295 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:05:34,297 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:05:34,298 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:05:34,299 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:05:34,300 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:05:34,524 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:05:34,524 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:05:34,524 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:05:34,524 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:05:34,525 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:07:10,325  INFO [main] TestBase:94 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:07:10,717 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:07:10,718 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:07:10,719 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:07:10,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:07:10,722 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:07:10,934 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:07:10,935 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:07:10,935 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:07:10,935 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:07:10,935 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:09:03,103  INFO [main] TestBase:94 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:09:03,489 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:09:03,490 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:09:03,491 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:09:03,492 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:09:03,493 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:09:03,687 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:09:03,688 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:09:03,688 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:09:03,688 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:09:03,688 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:12:28,584  INFO [main] TestBase:94 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:12:29,006 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:12:29,007 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:12:29,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:12:29,009 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:12:29,009 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:12:29,209 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:12:29,209 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:12:29,210 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:12:29,210 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:12:29,210 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:13:05,193  INFO [main] TestBase:94 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:13:05,658 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:13:05,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:13:05,660 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:13:05,661 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:13:05,661 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:13:05,879 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:13:05,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:13:05,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:13:05,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:13:05,880 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:14:35,044  INFO [main] TestBase:95 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:14:35,466 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:14:35,467 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:14:35,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:14:35,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:14:35,470 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:14:35,667 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:14:35,667 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:14:35,668 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:14:35,669 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:14:35,669 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:32:26,336  INFO [main] TestBase:95 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:32:26,731 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:32:26,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:32:26,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:32:26,733 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:32:26,733 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:32:26,941 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:32:26,941 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:32:26,942 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:32:26,942 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:32:26,942 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:33:28,757  INFO [main] TestBase:93 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:33:29,144 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:33:29,145 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:33:29,146 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:33:29,147 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:33:29,147 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:33:29,350 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:33:29,351 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:33:29,351 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:33:29,351 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:33:29,351 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:39:04,628  INFO [main] TestBase:93 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:39:05,057 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:39:05,058 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:39:05,059 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:39:05,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:39:05,060 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:39:05,257 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:39:05,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:39:05,258 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:39:05,258 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:39:05,258 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:39:51,117  INFO [main] TestBase:93 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:39:51,508 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:39:51,509 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:39:51,510 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:39:51,512 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:39:51,513 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:39:51,732 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:39:51,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:39:51,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:39:51,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:39:51,733 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:40:53,376  INFO [main] TestBase:93 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:40:54,122 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:40:54,123 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:40:54,124 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:40:54,125 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:40:54,125 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:40:54,319 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:40:54,319 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:40:54,320 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:40:54,320 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:40:54,320 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:42:48,250  INFO [main] TestBase:93 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:42:48,661 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:42:48,661 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:42:48,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:42:48,665 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:42:48,666 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:42:48,869 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:42:48,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:42:48,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:42:48,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:42:48,871 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:43:15,752  INFO [main] TestBase:93 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:43:16,477 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:43:16,479 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:43:16,481 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:43:16,482 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:43:16,482 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:43:16,687 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:43:16,687 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:43:16,688 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:43:16,688 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:43:16,688 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:43:55,582  INFO [main] TestBase:93 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:43:56,333 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:43:56,333 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:43:56,334 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:43:56,335 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:43:56,335 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:43:56,521 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:43:56,522 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:43:56,522 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:43:56,522 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:43:56,523 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:44:50,475  INFO [main] TestBase:93 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 19:44:51,222 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:44:51,223 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:44:51,226 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:44:51,227 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:44:51,227 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 19:44:51,435 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 19:44:51,435 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 19:44:51,436 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 19:44:51,436 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 19:44:51,436 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:11:13,486  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:11:20,544  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:11:27,518  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:11:34,122  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:11:43,520  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:11:52,972  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:12:02,409  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:12:18,532  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:12:28,007 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:12:28,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:12:28,009 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:12:28,010 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:12:28,011 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:12:28,218 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:12:28,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:12:28,219 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:12:28,219 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:12:28,220 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:19:36,501  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:19:43,612  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:19:50,575  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:19:57,530  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:20:06,142  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:20:14,893  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:20:23,451  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:20:38,306  INFO [main] TestBase:98 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:21:36,218 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:21:36,219 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:21:36,220 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:21:36,222 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:21:36,222 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:21:36,397 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:21:36,397 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:21:36,398 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:21:36,399 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:21:36,399 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:23:47,251 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:23:47,254 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:23:47,256 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:23:47,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:23:47,257 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:23:47,472 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:23:47,472 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:23:47,473 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:23:47,473 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:23:47,473 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:27:23,404  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:31:34,230  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:34:02,050  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:34:13,801 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:34:13,802 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:34:13,803 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:34:13,803 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:34:13,803 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:34:13,989 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:34:13,989 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:34:13,990 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:34:13,990 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:34:13,990 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:36:20,615  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:36:31,216 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:36:31,217 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:36:31,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:36:31,219 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:36:31,219 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:36:31,408 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:36:31,408 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:36:31,408 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:36:31,409 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:36:31,409 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:41:00,311  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-24 20:41:10,844 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:41:10,845 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:41:10,846 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:41:10,848 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:41:10,848 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:41:11,045 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:41:11,045 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:41:11,047 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:41:11,048 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:41:11,048 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:48:46,803 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:48:46,807 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:48:46,810 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:48:46,813 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:48:46,813 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-24 20:48:47,116 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-24 20:48:47,117 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-24 20:48:47,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-24 20:48:47,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-24 20:48:47,118 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:08:59,700  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:09:15,176  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:09:26,081  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:09:42,872  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:09:53,312 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:09:53,313 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:09:53,316 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:09:53,317 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:09:53,317 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:09:53,528 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:09:53,529 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:09:53,529 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:09:53,529 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:09:53,529 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:10:29,685  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:10:30,027 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:10:30,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:10:30,032 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:10:30,033 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:10:30,034 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:10:30,244 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:10:30,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:10:30,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:10:30,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:10:30,245 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:14:26,258 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:14:26,261 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:14:26,264 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:14:26,265 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:14:26,265 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:14:26,462 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:14:26,462 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:14:26,463 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:14:26,463 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:14:26,463 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:17:11,636  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:17:22,606  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:17:33,261  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:17:50,277  INFO [main] TestBase:100 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:18:01,089 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:18:01,096 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:18:01,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:18:01,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:18:01,100 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:18:01,283 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:18:01,283 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:18:01,285 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:18:01,286 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:18:01,286 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:22:38,519 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:22:38,523 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:22:38,524 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:22:38,525 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:22:38,526 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:22:38,687 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:22:38,687 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:22:38,688 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:22:38,688 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:22:38,688 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:23:50,575  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:23:50,596  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 12:23:55,088  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:23:55,090  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 12:23:59,504  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:23:59,506  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 12:24:03,932  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:24:08,785  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:24:16,028  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:24:22,769  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:24:32,517  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:24:44,656  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:24:55,955  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:25:13,298  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:25:23,910 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:25:23,911 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:25:23,915 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:25:23,916 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:25:23,916 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:25:24,129 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:25:24,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:25:24,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:25:24,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:25:24,130 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:27:48,440  INFO [main] TestBase:105 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:27:58,930 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:27:58,931 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:27:58,934 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:27:58,935 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:27:58,936 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:27:59,130 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:27:59,130 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:27:59,130 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:27:59,131 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:27:59,131 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:29:08,526  INFO [main] TestBase:106 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:34:21,398  INFO [main] TestBase:106 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:35:03,887  INFO [main] TestBase:106 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:44:51,773  INFO [main] TestBase:106 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 12:46:03,575 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:46:03,578 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:46:03,579 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:46:03,580 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:46:03,580 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:46:03,786 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:46:03,786 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:46:03,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:46:03,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:46:03,787 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:47:59,966 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:47:59,972 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:47:59,976 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:47:59,977 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:47:59,979 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:48:00,175 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:48:00,175 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:48:00,175 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:48:00,176 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:48:00,176 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:48:34,497 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:48:34,499 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:48:34,501 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:48:34,502 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:48:34,502 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:48:34,682 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:48:34,682 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:48:34,682 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:48:34,682 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:48:34,683 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:56:01,981 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:56:01,983 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:56:01,984 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:56:01,985 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:56:01,985 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:56:02,180 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:56:02,180 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:56:02,181 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:56:02,181 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:56:02,181 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:56:59,700 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:56:59,702 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:56:59,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:56:59,704 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:56:59,704 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:56:59,907 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:56:59,907 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:56:59,908 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:56:59,908 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:56:59,908 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:57:18,989 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:57:18,991 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:57:18,993 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:57:18,993 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:57:18,994 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 12:57:19,191 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 12:57:19,192 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 12:57:19,192 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 12:57:19,192 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 12:57:19,192 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:09:02,375 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:09:02,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:09:02,380 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:09:02,381 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:09:02,381 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:09:02,584 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:09:02,585 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:09:02,585 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:09:02,585 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:09:02,585 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:10:38,971 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:10:38,973 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:10:38,975 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:10:38,976 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:10:38,976 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:10:39,182 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:10:39,182 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:10:39,183 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:10:39,183 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:10:39,183 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:13:01,422 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:13:01,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:13:01,427 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:13:01,429 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:13:01,429 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:13:01,658 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:13:01,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:13:01,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:13:01,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:13:01,659 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:28:03,422 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:28:03,427 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:28:03,432 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:28:03,434 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:28:03,436 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:28:03,639 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:28:03,640 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:28:03,640 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:28:03,640 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:28:03,641 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:28:35,149 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:28:35,153 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:28:35,154 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:28:35,155 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:28:35,156 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:28:35,376 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:28:35,377 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:28:35,377 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:28:35,377 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:28:35,378 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:31:11,785 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:31:11,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:31:11,788 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:31:11,789 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:31:11,790 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:31:11,999 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:31:11,999 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:31:12,000 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:31:12,000 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:31:12,000 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:32:41,766  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:33:48,876  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:35:39,139  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:35:39,158  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 13:35:43,666  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:35:43,668  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 13:35:48,142  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:35:48,144  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 13:35:52,586  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:35:57,324  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:36:09,022  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:36:17,011  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:36:26,428  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:36:33,458  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:36:40,464  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:36:48,621  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:36:57,419  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:37:06,013  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:37:15,788  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:37:33,171  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:37:47,609  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:37:55,577  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:38:03,547  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:38:17,250  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:38:27,014 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:38:27,015 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:38:27,017 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:38:27,018 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:38:27,018 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:38:27,184 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:38:27,184 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:38:27,185 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:38:27,185 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:38:27,185 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:47:41,056  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:47:41,076  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 13:47:45,670  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:47:45,672  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 13:47:50,416  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:47:50,418  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 13:47:55,119  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:48:00,396  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:48:09,156  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:48:16,890  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:48:26,509  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:48:30,808  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:48:39,940  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:48:48,885  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:49:03,491  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:49:14,532 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:49:14,533 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:49:14,534 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:49:14,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:49:14,535 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:49:14,737 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:49:14,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:49:14,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:49:14,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:49:14,738 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:49:56,820  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:49:56,842  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 13:50:01,415  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:50:01,416  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 13:50:05,864  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:50:05,866  INFO [main] LoginPageTest:39 - ************************  loginPageTitleTest **************************
+2018-07-25 13:50:12,121  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:50:18,124  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:50:30,451  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:50:38,008  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:50:48,900  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:50:52,871  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:51:01,957  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:51:15,074  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:51:29,238  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:51:39,536 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:51:39,538 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:51:39,541 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:51:39,541 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:51:39,542 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:51:39,735 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:51:39,736 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:51:39,736 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:51:39,736 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:51:39,736 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:58:12,043  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:58:20,263  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:58:27,392  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:58:35,594  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:58:44,726  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:58:55,101  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:59:05,189  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:59:21,231  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 13:59:31,813 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:59:31,814 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:59:31,816 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:59:31,817 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:59:31,817 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 13:59:32,051 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 13:59:32,052 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 13:59:32,052 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 13:59:32,053 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 13:59:32,053 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 14:00:58,019  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:01:05,131  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:01:12,272  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:01:19,446  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:01:29,620  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:01:38,733  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:01:48,888  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:02:05,229  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:02:14,574 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 14:02:14,576 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 14:02:14,578 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 14:02:14,580 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 14:02:14,581 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 14:02:14,791 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 14:02:14,791 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 14:02:14,791 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 14:02:14,792 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 14:02:14,792 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 14:56:38,959  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:56:49,796  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:56:57,037  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:57:10,245  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:57:19,727 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 14:57:19,730 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 14:57:19,734 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 14:57:19,735 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 14:57:19,736 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 14:57:19,944 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 14:57:19,944 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 14:57:19,944 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 14:57:19,945 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 14:57:19,945 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 14:58:38,481  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:58:38,503  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 14:58:46,157  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:58:46,158  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 14:58:52,706  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:58:52,707  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 14:58:59,270  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:59:06,251  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:59:13,741  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:59:20,828  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:59:25,456  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:59:32,374  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:59:39,461  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 14:59:52,963  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:00:05,930  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:00:13,899  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:00:22,038  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:00:36,435  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:00:46,999 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:00:47,001 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:00:47,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:00:47,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:00:47,004 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:00:47,178 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:00:47,178 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:00:47,179 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:00:47,179 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:00:47,179 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:03:54,124  INFO [TestNG-tests-3] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:03:54,931 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:03:54,932 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:03:54,935 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:03:54,935 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:03:54,936 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:03:55,133 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:03:55,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:03:55,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:03:55,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:03:55,134 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:04:47,140  INFO [TestNG-tests-2] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:04:47,920 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:04:47,922 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:04:47,923 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:04:47,924 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:04:47,924 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:04:48,101 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:04:48,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:04:48,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:04:48,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:04:48,102 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:05:53,309  INFO [TestNG-tests-2] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:05:54,089 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:05:54,091 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:05:54,092 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:05:54,093 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:05:54,093 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:05:54,254 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:05:54,255 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:05:54,255 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:05:54,255 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:05:54,255 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:07:00,875  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:07:00,904  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 15:07:07,452  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:07:07,454  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 15:07:14,009  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:07:14,011  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 15:07:20,569  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:07:27,479  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:07:34,888  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:07:41,902  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:07:46,476  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:07:53,576  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:08:00,621  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:08:13,069  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:08:22,419 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:08:22,420 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:08:22,422 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:08:22,423 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:08:22,424 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:08:22,593 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:08:22,594 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:08:22,594 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:08:22,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:08:22,595 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:10:39,686  INFO [TestNG-tests-2] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:10:40,497 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:10:40,498 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:10:40,499 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:10:40,499 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:10:40,500 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:10:40,672 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:10:40,673 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:10:40,673 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:10:40,673 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:10:40,673 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:12:13,466  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:12:13,487  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 15:12:20,074  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:12:20,075  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 15:12:26,667  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:12:26,668  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 15:12:33,259  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:12:40,289  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:12:47,779  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:12:54,784  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:12:59,384  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:13:06,555  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:13:13,465  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:13:26,419  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:13:39,614  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:13:47,633  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:13:55,756  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:14:09,428  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:14:19,384 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:14:19,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:14:19,386 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:14:19,387 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:14:19,387 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:14:19,541 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:14:19,541 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:14:19,542 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:14:19,542 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:14:19,542 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:15:04,492  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:15:04,513  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 15:15:08,998  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:15:13,686  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:15:20,881  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:15:27,677  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:15:34,649  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:15:41,519  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:15:48,693  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:16:01,827  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:16:18,505  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:16:30,721  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:16:43,113  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:17:01,557  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 15:17:12,686 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:17:12,687 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:17:12,689 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:17:12,691 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:17:12,692 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 15:17:12,850 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 15:17:12,850 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 15:17:12,850 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 15:17:12,851 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 15:17:12,851 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 16:57:00,141  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:57:00,157  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 16:57:04,734  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:57:09,420  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:57:23,797  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:57:31,069  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:57:38,339  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:57:45,789  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:57:53,054  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:58:05,954  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:58:22,345  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:58:35,507  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:58:48,583  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:59:07,537  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 16:59:19,520 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 16:59:19,521 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 16:59:19,523 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 16:59:19,524 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 16:59:19,524 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 16:59:19,711 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 16:59:19,712 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 16:59:19,712 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 16:59:19,713 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 16:59:19,713 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 17:03:35,014  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:03:35,033  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 17:03:39,691  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:03:44,577  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:03:52,626  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:03:59,713  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:04:07,087  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:04:14,428  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:04:21,619  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:04:35,150  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:04:52,086  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:05:05,516  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:05:18,754  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:05:37,855  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:05:49,482 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 17:05:49,483 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 17:05:49,484 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 17:05:49,485 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 17:05:49,485 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 17:05:49,696 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 17:05:49,698 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 17:05:49,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 17:05:49,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 17:05:49,700 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 17:07:30,192  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:07:30,210  INFO [main] LoginPageTest:40 - ************************  loginPageTitleTest **************************
+2018-07-25 17:07:34,739  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:07:39,293  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:07:47,057  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:07:54,787  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:08:01,946  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:08:09,182  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:08:16,366  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:08:29,570  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:08:46,554  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:08:59,494  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:09:12,148  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:09:30,576  INFO [main] TestBase:110 - Required drivers initialized by inheriting TestBase: 
+2018-07-25 17:09:42,390 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 17:09:42,391 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 17:09:42,393 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 17:09:42,394 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 17:09:42,395 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-07-25 17:09:42,565 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-07-25 17:09:42,566 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-07-25 17:09:42,566 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-07-25 17:09:42,567 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-07-25 17:09:42,567 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/manish1185/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

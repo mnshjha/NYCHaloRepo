@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NYC HALO Application Automation Test Suite" parallel="none">
+  <listeners>
+		<listener class-name="com.nyc.qa.ExtentReportListener.ExtentReporterNG" />
+		<listener class-name="com.nyc.qa.util.MyTransformer"/>
+  </listeners>
+
+  <test name="NYC HALO App Test Case 1">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.nyc.qa.testcases.LoginPageTest"/>
+    </classes>
+  </test>
+  
+  <test name="NYC HALO App Test Case 2">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.nyc.qa.testcases.HomePageTest"/>
+    </classes>
+  </test>
+  
+  <test name="NYC HALO App Test Case 3">
+  <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.nyc.qa.testcases.DashboardPageTest"/>
+    </classes>
+  </test>
+</suite> 
